@@ -20,9 +20,20 @@ In the global maritime shipping industry, operational efficiency, timely transit
 ---
 
 ## 📊 Dashboard Preview & Screenshots
-*(You can add screenshots of your Power BI dashboard here to let visitors see your visual work instantly)*
+
+### 1. Overview Page
+![Overview](Overview.png)
+
+### 2. Operational Performance
+![Operational Performance](Operational Performance.png)
+
+### 3. Timing Analysis
+![Timing Analysis](Timing analysis.png)
+
+### 4. Navigation Page
+![Navigator page](Navigator page.png)
 
 ---
 
 ## 📂 Project Files
-- **Power BI Report:** `[Upload your .pbix file to this repository]`
+- **Power BI Report:** [Download Blue ocean .pbix File](./Blue%20ocean.pbix)
