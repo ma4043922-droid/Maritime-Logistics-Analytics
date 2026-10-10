@@ -37,3 +37,8 @@ In the global maritime shipping industry, operational efficiency, timely transit
 
 ## 📂 Project Files
 - **Power BI Report:** [Download Blue ocean .pbix File](./Blue%20ocean.pbix)
+
+- ---
+
+📖 **Full Business Analysis Report in Arabic / التقرير التحليلي الكامل بالعربية:**
+👉 [اضغط هنا لقراءة التقرير التفصيلي وسرد القصة باللغة العربية](./PROJECT_STORYTELLING.md)
