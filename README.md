@@ -21,19 +21,18 @@ In the global maritime shipping industry, operational efficiency, timely transit
 
 ## 📊 Dashboard Preview & Screenshots
 
-## 📊 Dashboard Preview & Screenshots
+### 1. Navigation Page
+![Navigator page](Navigator%20page.png)
 
-### 1. Overview Page
+### 2. Overview Page
 ![Overview](Overview.png)
 
-### 2. Operational Performance
+### 3. Operational Performance
 ![Operational Performance](Operational%20Performance.png)
 
-### 3. Timing Analysis
+### 4. Timing Analysis
 ![Timing Analysis](Timing%20analysis.png)
 
-### 4. Navigation Page
-![Navigator page](Navigator%20page.png)
 ---
 
 ## 📂 Project Files
